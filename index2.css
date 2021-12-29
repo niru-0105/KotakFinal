@@ -89,6 +89,10 @@ input{
     margin: 15px 0;
     color: #A9A3A3;
 }
+.sideli:hover{
+    color: #003874;
+    font-weight: bold;
+}
 .sideli>img{
     margin-right: 23px;
     width: 20px;
