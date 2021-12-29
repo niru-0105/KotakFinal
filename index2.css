@@ -47,6 +47,9 @@ ul{
     padding: 0px;
 
 }
+.navli{
+  margin-top: 15px;
+}
 .profile{
     flex: 0.4;
     display: flex;
