@@ -92,6 +92,10 @@ input{
     margin: 15px 0;
     color: #A9A3A3;
 }
+#homeli{
+    color: #003874;
+    font-weight: bold;
+}
 .sideli:hover{
     color: #003874;
     font-weight: bold;
